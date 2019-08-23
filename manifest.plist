@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -31,16 +32,18 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>title</key>
-				<string>XYZex</string>
+				<key>bundle-identifier</key>
+				<string>com.store.mxc.MXC</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>bundle-identifier</key>
-				<string>com.store.mxc.MXC</string>
+				<key>subtitle</key>
+				<string></string>
+				<key>title</key>
+				<string>XYZex</string>
 			</dict>
 		</dict>
 	</array>
-</array>
+</dict>
 </plist>
